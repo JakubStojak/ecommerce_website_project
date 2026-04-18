@@ -1,4 +1,4 @@
-# WDAI_Stojak_Nartowski_Project
+# ecommerce_website_project
 
 A web application project developed for the **Introduction to Web Applications** course at **AGH University of Science and Technology**.
 
